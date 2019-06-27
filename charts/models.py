@@ -5,7 +5,7 @@ from django.db import models
 
 
 class Stock(models.Model):
-    data = models.FloatField(default=0)
+    close_price = models.FloatField(default=0)
     date = models.DateField()
 
     def save(self, *args, **kwargs):

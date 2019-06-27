@@ -1,0 +1,2026 @@
+[
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-06-01",
+      "close_price": 153.18
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-06-02",
+      "close_price": 155.45
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-06-05",
+      "close_price": 153.93
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-06-06",
+      "close_price": 154.45
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-06-07",
+      "close_price": 155.37
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-06-08",
+      "close_price": 154.99
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-06-09",
+      "close_price": 148.98
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-06-12",
+      "close_price": 145.42
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-06-13",
+      "close_price": 146.59
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-06-14",
+      "close_price": 145.16
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-06-15",
+      "close_price": 144.29
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-06-16",
+      "close_price": 142.27
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-06-19",
+      "close_price": 146.34
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-06-20",
+      "close_price": 145.01
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-06-21",
+      "close_price": 145.87
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-06-22",
+      "close_price": 145.63
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-06-23",
+      "close_price": 146.28
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-06-26",
+      "close_price": 145.82
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-06-27",
+      "close_price": 143.73
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-06-28",
+      "close_price": 145.83
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-06-29",
+      "close_price": 143.68
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-06-30",
+      "close_price": 144.02
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-07-03",
+      "close_price": 143.5
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-07-05",
+      "close_price": 144.09
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-07-06",
+      "close_price": 142.73
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-07-07",
+      "close_price": 144.18
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-07-10",
+      "close_price": 145.06
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-07-11",
+      "close_price": 145.53
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-07-12",
+      "close_price": 145.74
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-07-13",
+      "close_price": 147.77
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-07-14",
+      "close_price": 149.04
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-07-17",
+      "close_price": 149.56
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-07-18",
+      "close_price": 150.08
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-07-19",
+      "close_price": 151.02
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-07-20",
+      "close_price": 150.34
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-07-21",
+      "close_price": 150.27
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-07-24",
+      "close_price": 152.09
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-07-25",
+      "close_price": 152.74
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-07-26",
+      "close_price": 153.46
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-07-27",
+      "close_price": 150.56
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-07-28",
+      "close_price": 149.5
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-07-31",
+      "close_price": 148.73
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-08-01",
+      "close_price": 150.05
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-08-02",
+      "close_price": 157.14
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-08-03",
+      "close_price": 155.57
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-08-04",
+      "close_price": 156.39
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-08-07",
+      "close_price": 158.81
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-08-08",
+      "close_price": 160.08
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-08-09",
+      "close_price": 161.06
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-08-10",
+      "close_price": 155.32
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-08-11",
+      "close_price": 157.48
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-08-14",
+      "close_price": 159.85
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-08-15",
+      "close_price": 161.6
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-08-16",
+      "close_price": 160.95
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-08-17",
+      "close_price": 157.86
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-08-18",
+      "close_price": 157.5
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-08-21",
+      "close_price": 157.21
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-08-22",
+      "close_price": 159.78
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-08-23",
+      "close_price": 159.98
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-08-24",
+      "close_price": 159.27
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-08-25",
+      "close_price": 159.86
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-08-28",
+      "close_price": 161.47
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-08-29",
+      "close_price": 162.91
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-08-30",
+      "close_price": 163.35
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-08-31",
+      "close_price": 164.0
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-09-01",
+      "close_price": 164.05
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-09-05",
+      "close_price": 162.08
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-09-06",
+      "close_price": 161.91
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-09-07",
+      "close_price": 161.26
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-09-08",
+      "close_price": 158.63
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-09-11",
+      "close_price": 161.5
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-09-12",
+      "close_price": 160.86
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-09-13",
+      "close_price": 159.65
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-09-14",
+      "close_price": 158.28
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-09-15",
+      "close_price": 159.88
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-09-18",
+      "close_price": 158.67
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-09-19",
+      "close_price": 158.73
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-09-20",
+      "close_price": 156.07
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-09-21",
+      "close_price": 153.39
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-09-22",
+      "close_price": 151.89
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-09-25",
+      "close_price": 150.55
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-09-26",
+      "close_price": 153.14
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-09-27",
+      "close_price": 154.23
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-09-28",
+      "close_price": 153.28
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-09-29",
+      "close_price": 154.12
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-10-02",
+      "close_price": 153.81
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-10-03",
+      "close_price": 154.48
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-10-04",
+      "close_price": 153.48
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-10-05",
+      "close_price": 155.39
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-10-06",
+      "close_price": 155.3
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-10-09",
+      "close_price": 155.84
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-10-10",
+      "close_price": 155.9
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-10-11",
+      "close_price": 156.55
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-10-12",
+      "close_price": 156.0
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-10-13",
+      "close_price": 156.99
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-10-16",
+      "close_price": 159.88
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-10-17",
+      "close_price": 160.47
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-10-18",
+      "close_price": 159.76
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-10-19",
+      "close_price": 155.98
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-10-20",
+      "close_price": 156.25
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-10-23",
+      "close_price": 156.17
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-10-24",
+      "close_price": 157.1
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-10-25",
+      "close_price": 156.41
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-10-26",
+      "close_price": 157.41
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-10-27",
+      "close_price": 163.05
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-10-30",
+      "close_price": 166.72
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-10-31",
+      "close_price": 169.04
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-11-01",
+      "close_price": 166.89
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-11-02",
+      "close_price": 168.11
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-11-03",
+      "close_price": 172.5
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-11-06",
+      "close_price": 174.25
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-11-07",
+      "close_price": 174.81
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-11-08",
+      "close_price": 176.24
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-11-09",
+      "close_price": 175.88
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-11-10",
+      "close_price": 174.67
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-11-13",
+      "close_price": 173.97
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-11-14",
+      "close_price": 171.34
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-11-15",
+      "close_price": 169.08
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-11-16",
+      "close_price": 171.1
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-11-17",
+      "close_price": 170.15
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-11-20",
+      "close_price": 169.98
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-11-21",
+      "close_price": 173.14
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-11-22",
+      "close_price": 174.96
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-11-24",
+      "close_price": 174.97
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-11-27",
+      "close_price": 174.09
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-11-28",
+      "close_price": 173.07
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-11-29",
+      "close_price": 169.48
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-11-30",
+      "close_price": 171.85
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-12-01",
+      "close_price": 171.05
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-12-04",
+      "close_price": 169.8
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-12-05",
+      "close_price": 169.64
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-12-06",
+      "close_price": 169.01
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-12-07",
+      "close_price": 169.32
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-12-08",
+      "close_price": 169.37
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-12-11",
+      "close_price": 172.67
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-12-12",
+      "close_price": 171.7
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-12-13",
+      "close_price": 172.27
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-12-14",
+      "close_price": 172.22
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-12-15",
+      "close_price": 173.97
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-12-18",
+      "close_price": 176.42
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-12-19",
+      "close_price": 174.54
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-12-20",
+      "close_price": 174.35
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-12-21",
+      "close_price": 175.01
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-12-22",
+      "close_price": 175.01
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-12-26",
+      "close_price": 170.57
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-12-27",
+      "close_price": 170.6
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-12-28",
+      "close_price": 171.08
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2017-12-29",
+      "close_price": 169.23
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-01-02",
+      "close_price": 172.26
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-01-03",
+      "close_price": 172.23
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-01-04",
+      "close_price": 173.03
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-01-05",
+      "close_price": 175.0
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-01-08",
+      "close_price": 174.35
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-01-09",
+      "close_price": 174.33
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-01-10",
+      "close_price": 174.29
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-01-11",
+      "close_price": 175.28
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-01-12",
+      "close_price": 177.09
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-01-16",
+      "close_price": 176.19
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-01-17",
+      "close_price": 179.1
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-01-18",
+      "close_price": 179.26
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-01-19",
+      "close_price": 178.46
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-01-22",
+      "close_price": 177.0
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-01-23",
+      "close_price": 177.04
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-01-24",
+      "close_price": 174.22
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-01-25",
+      "close_price": 171.11
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-01-26",
+      "close_price": 171.51
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-01-29",
+      "close_price": 167.96
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-01-30",
+      "close_price": 166.97
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-01-31",
+      "close_price": 167.43
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-02-01",
+      "close_price": 167.78
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-02-02",
+      "close_price": 160.5
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-02-05",
+      "close_price": 156.49
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-02-06",
+      "close_price": 163.03
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-02-07",
+      "close_price": 159.54
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-02-08",
+      "close_price": 155.15
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-02-09",
+      "close_price": 156.41
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-02-12",
+      "close_price": 162.71
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-02-13",
+      "close_price": 164.34
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-02-14",
+      "close_price": 167.37
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-02-15",
+      "close_price": 172.99
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-02-16",
+      "close_price": 172.43
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-02-20",
+      "close_price": 171.85
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-02-21",
+      "close_price": 171.07
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-02-22",
+      "close_price": 172.5
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-02-23",
+      "close_price": 175.5
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-02-26",
+      "close_price": 178.97
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-02-27",
+      "close_price": 178.39
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-02-28",
+      "close_price": 178.12
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-03-01",
+      "close_price": 175.0
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-03-02",
+      "close_price": 176.21
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-03-05",
+      "close_price": 176.82
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-03-06",
+      "close_price": 176.67
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-03-07",
+      "close_price": 175.03
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-03-08",
+      "close_price": 176.94
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-03-09",
+      "close_price": 179.98
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-03-12",
+      "close_price": 181.72
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-03-13",
+      "close_price": 179.97
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-03-14",
+      "close_price": 178.44
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-03-15",
+      "close_price": 178.65
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-03-16",
+      "close_price": 178.02
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-03-19",
+      "close_price": 175.3
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-03-20",
+      "close_price": 175.24
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-03-21",
+      "close_price": 171.27
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-03-22",
+      "close_price": 168.85
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-03-23",
+      "close_price": 164.94
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-03-26",
+      "close_price": 172.77
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-03-27",
+      "close_price": 168.34
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-03-28",
+      "close_price": 166.48
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-03-29",
+      "close_price": 167.78
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-04-02",
+      "close_price": 166.68
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-04-03",
+      "close_price": 168.39
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-04-04",
+      "close_price": 171.61
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-04-05",
+      "close_price": 172.8
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-04-06",
+      "close_price": 168.38
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-04-09",
+      "close_price": 170.05
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-04-10",
+      "close_price": 173.25
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-04-11",
+      "close_price": 172.44
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-04-12",
+      "close_price": 174.14
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-04-13",
+      "close_price": 174.73
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-04-16",
+      "close_price": 175.82
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-04-17",
+      "close_price": 178.24
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-04-18",
+      "close_price": 177.84
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-04-19",
+      "close_price": 172.8
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-04-20",
+      "close_price": 165.72
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-04-23",
+      "close_price": 165.24
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-04-24",
+      "close_price": 162.94
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-04-25",
+      "close_price": 163.65
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-04-26",
+      "close_price": 164.22
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-04-27",
+      "close_price": 162.32
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-04-30",
+      "close_price": 165.26
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-05-01",
+      "close_price": 169.1
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-05-02",
+      "close_price": 176.57
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-05-03",
+      "close_price": 176.89
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-05-04",
+      "close_price": 183.83
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-05-07",
+      "close_price": 185.16
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-05-08",
+      "close_price": 186.05
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-05-09",
+      "close_price": 187.36
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-05-10",
+      "close_price": 190.04
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-05-11",
+      "close_price": 188.59
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-05-14",
+      "close_price": 188.15
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-05-15",
+      "close_price": 186.44
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-05-16",
+      "close_price": 188.18
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-05-17",
+      "close_price": 186.99
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-05-18",
+      "close_price": 186.31
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-05-21",
+      "close_price": 187.63
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-05-22",
+      "close_price": 187.16
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-05-23",
+      "close_price": 188.36
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-05-24",
+      "close_price": 188.15
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-05-25",
+      "close_price": 188.58
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-05-29",
+      "close_price": 187.9
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-05-30",
+      "close_price": 187.5
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-05-31",
+      "close_price": 186.87
+    }
+  },
+  {
+    "model": "charts.Stock",
+    "pk": null,
+    "fields": {
+      "date": "2018-06-01",
+      "close_price": 190.24
+    }
+  }
+]

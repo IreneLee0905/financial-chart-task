@@ -22,8 +22,8 @@ def portfolio(request):
     max_num = 0
     for i in range(len(queryset) - 1, -1, -1):
         for j in range(i - 1, -1, -1):
-            if queryset[i].data - queryset[j].data > profit:
-                profit = queryset[i].data - queryset[j].data
+            if queryset[i].close_price - queryset[j].close_price > profit:
+                profit = queryset[i].close_price - queryset[j].close_price
                 max_num = i
                 min_num = j
     return JsonResponse({
