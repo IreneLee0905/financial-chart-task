@@ -5,21 +5,18 @@ from django.views.decorators.csrf import csrf_exempt
 from django.http import JsonResponse
 
 
-# Create your views here.
-
-
+# Stock Restful API
 class StockViewSet(viewsets.ModelViewSet):
     queryset = Stock.objects.all().order_by('date')
     serializer_class = StockSerializer
-    # serializer.data
 
 
+# Calculating best portfolio
 @csrf_exempt
 def portfolio(request):
     queryset = Stock.objects.all().order_by('date')
-    profit = 0
-    min_num = 0
-    max_num = 0
+    profit, min_num, max_num = 0, 0, 0
+    # Iterate and find the largest difference between two prices
     for i in range(len(queryset) - 1, -1, -1):
         for j in range(i - 1, -1, -1):
             if queryset[i].close_price - queryset[j].close_price > profit:
@@ -30,5 +27,3 @@ def portfolio(request):
         'buy_date': queryset[min_num].date,
         'sell_date': queryset[max_num].date,
     })
-
-#

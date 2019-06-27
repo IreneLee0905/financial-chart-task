@@ -3,6 +3,7 @@ from rest_framework import serializers
 from charts.models import Stock
 
 
+# Stock Serializer
 class StockSerializer(serializers.Serializer):
     close_price = serializers.FloatField()
     date = serializers.DateField()
