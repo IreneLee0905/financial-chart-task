@@ -15,15 +15,16 @@ class StockViewSet(viewsets.ModelViewSet):
 @csrf_exempt
 def portfolio(request):
     queryset = Stock.objects.all().order_by('date')
-    profit, min_num, max_num = 0, 0, 0
-    # Iterate and find the largest difference between two prices
-    for i in range(len(queryset) - 1, -1, -1):
-        for j in range(i - 1, -1, -1):
-            if queryset[i].close_price - queryset[j].close_price > profit:
-                profit = queryset[i].close_price - queryset[j].close_price
-                max_num = i
-                min_num = j
+    profit, min_num, max_idx, min_idx = 0, 99999, 0, 0
+    for idx, data in enumerate(queryset):
+        if data.close_price < min_num:
+            min_num = data.close_price
+            min_idx = idx
+        if data.close_price - min_num > profit:
+            profit = data.close_price - min_num
+            max_idx = idx
+
     return JsonResponse({
-        'buy_date': queryset[min_num].date,
-        'sell_date': queryset[max_num].date,
+        'buy_date': queryset[min_idx].date,
+        'sell_date': queryset[max_idx].date,
     })
